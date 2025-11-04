@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Weather Forecast",
+  "description": "A sleek and modern weather forecast application powered by the Gemini API, providing current weather conditions and a 5-day forecast for any location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
